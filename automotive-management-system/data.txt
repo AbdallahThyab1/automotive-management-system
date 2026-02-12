@@ -1,0 +1,8 @@
+Car,Toyota Camry,Toyota,Red,25000,2020-05-15
+Car,Honda Civic,Honda,Blue,22000,2021-03-10
+Car,Ford Mustang,Ford,Black,35000,2019-08-22
+Bike,Mountain Bike,21,2022-07-01
+Bike,Road Bike,18,2023-01-20
+Bike,City Bike,7,2021-11-15
+Car,Tesla Model 3,Tesla,White,45000,2022-09-30
+Bike,Electric Bike,24,2023-03-25
